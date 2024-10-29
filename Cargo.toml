@@ -1,4 +1,10 @@
+[package]
+name = "rust-dump-analyzer"
+version = "0.1.0"
+edition = "2021"
+
 [dependencies]
 crossterm = "0.20"
 memchr = "2.5"
-ratatui = "0.29"  # for building the UI
+ratatui = "0.29"
+rand = "0.8"

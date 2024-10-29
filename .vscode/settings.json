@@ -2,6 +2,7 @@
   "cSpell.words": [
     "crossterm",
     "memchr",
+    "memmem",
     "ratatui"
   ]
 }
